@@ -8,3 +8,4 @@ This repository uses Google's Bert model,modified by me, for transfer Learning t
 
 Formally, ***Suggestion Mining*** can be defined as the process of identifying and extracting sentences from unstructured text that contain suggestion.Suggestions in the form of unstructured text could be found in various social media platforms, discussion forums, review websites and blogs. They are often expressed in the form of advice, tips, recommendations, warnings, things to do, and various other forms in an explicit as well as an implicit way. Identifying and retrieving suggestions from text can be useful in an industrial setting for enhancing a product, summarizing opinions of the consumers, giving recommendations and as an aid in decision making process.
 
+Link for saved model(.h5 file): https://drive.google.com/open?id=18msbHNGVuEYyZyisW_PK3pMR3NfFgUxd
